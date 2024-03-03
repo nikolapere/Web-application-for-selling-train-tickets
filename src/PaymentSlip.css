@@ -1,0 +1,100 @@
+.instruction{
+    border: 2px solid black;
+    height: 320px;
+    width: 842px;
+}
+
+.payer{
+    border: 2px solid black;
+    width: 200px;
+    height: 40px;
+    padding-left: 5px;
+}
+.purpose{
+    border: 2px solid black;
+    width: 200px;
+    height: 40px;
+    padding-left: 5px;
+    
+}
+.payee{
+    border: 2px solid black;
+    width: 200px;
+    height: 40px;
+    padding-left: 5px;
+    
+}
+.code{
+    border: 2px solid black;
+    width: 40px;
+    height: 30px;
+    padding-left: 3px;
+    
+}
+.code1{
+    position: relative;
+    top: -240px;
+    left: 319px;
+    
+}
+
+.currency{
+    border: 2px solid black;
+    width: 40px;
+    height: 30px;
+    padding-left: 3px;
+    
+}
+
+.currency1{
+    position: relative;
+    top: -310px;
+    left: 433px;
+}
+.amount{
+    border: 2px solid black;
+    width: 200px;
+    height: 30px;
+    padding-left: 3px;
+}
+.amount1{
+    position: relative;
+    top: -380px;
+    left: 503px;
+}
+.payeeNumber{
+    border: 2px solid black;
+    width: 381px;
+    height: 30px;
+    padding-left: 3px;
+}
+.payeeNumber1{
+    position: relative;
+    top: -380px;
+    left: 319px;
+}
+
+.model{
+    border: 2px solid black;
+    width: 40px;
+    height: 30px;
+    padding-left: 3px;
+    
+}
+.model1{
+    position: relative;
+    top: -388px;
+    left: 319px;
+}
+.referenceNumber{
+    border: 2px solid black;
+    width: 277px;
+    height: 30px;
+    padding-left: 3px;
+    
+}
+.referenceNumber1{
+    position: relative;
+    top: -458px;
+    left: 424px;
+}

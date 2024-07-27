@@ -86,7 +86,7 @@ function UserProfile() {
     <div className="container mt-4">
       {user ? (
         <div>
-          {user.email === 'perehinac.nikola@gmail.com' ? (
+          {user.email === 'admin@gmail.com' ? (
             <div>
               <h2 className="mb-4">Korisnički profil</h2>
               <h4>Dobrodošli, administratoru!</h4>
